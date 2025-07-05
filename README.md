@@ -2,5 +2,5 @@
 this is my git learning repo
 <br>
 <b>
-<u>
+</u>
 i am Rounak Likhar 
