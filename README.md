@@ -1,5 +1,5 @@
 # git-learning-
 this is my git learning repo
 <br>
-<i>
+<b>
 i am Rounak Likhar 
